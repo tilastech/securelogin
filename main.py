@@ -1,3 +1,8 @@
+# Written by TilasTech
+# Channel: https://www.youtube.com/channel/UC7xQkF7kX2rCz672OVwcCYw
+# Video: https://youtu.be/GXZKSk4c9cc
+# Hope this helps you out!
+
 def main():
     import hashlib
     from msvcrt import getch
